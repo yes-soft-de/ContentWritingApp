@@ -1,0 +1,8 @@
+{
+  "asset": "asset:contentwritingapp/lib/services/services_module.dart",
+  "summary": {
+    "injector": [],
+    "module": [],
+    "injectable": []
+  }
+}

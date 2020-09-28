@@ -1,5 +1,5 @@
 import 'package:contentwritingapp/authorization/ui/widget/logo_widget/logo.dart';
-import 'file:///D:/YesSoft%20projects/Content%20Writing%20app/content_writing_app/lib/services/ui/screen/services_page/srevices_page.dart';
+import 'package:contentwritingapp/services/ui/screen/services_page/srevices_page.dart';
 import 'package:flutter/material.dart';
 import 'package:inject/inject.dart';
 

@@ -1,7 +1,9 @@
 import 'package:contentwritingapp/shared/widget/app_drawer/app_drawer.dart';
 import 'package:contentwritingapp/shared/widget/content_writing_app_bar/content_writing_app_bar.dart';
 import 'package:flutter/material.dart';
+import 'package:inject/inject.dart';
 
+@provide
 class AboutPage extends StatefulWidget {
   @override
   _AboutPageState createState() => _AboutPageState();

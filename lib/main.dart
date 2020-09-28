@@ -2,8 +2,8 @@ import 'package:contentwritingapp/about/ui/screen/about_page/about_page.dart';
 import 'package:contentwritingapp/authorization/ui/screen/register_page/register_page.dart';
 import 'package:inject/inject.dart';
 import 'di/app.component.dart';
-import 'file:///D:/YesSoft%20projects/Content%20Writing%20app/content_writing_app/lib/our_team/ui/screen/our_team_page/our_team_page.dart';
-import 'file:///D:/YesSoft%20projects/Content%20Writing%20app/content_writing_app/lib/services/ui/screen/services_page/srevices_page.dart';
+import 'package:contentwritingapp/our_team/ui/screen/our_team_page/our_team_page.dart';
+import 'package:contentwritingapp/services/ui/screen/services_page/srevices_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

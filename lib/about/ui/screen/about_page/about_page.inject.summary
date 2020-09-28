@@ -1,0 +1,26 @@
+{
+  "asset": "asset:contentwritingapp/lib/about/ui/screen/about_page/about_page.dart",
+  "summary": {
+    "injector": [],
+    "module": [],
+    "injectable": [
+      {
+        "name": "AboutPage",
+        "constructor": {
+          "name": "",
+          "kind": "constructor",
+          "injectedType": {
+            "lookupKey": {
+              "root": "asset:contentwritingapp/lib/about/ui/screen/about_page/about_page.dart#AboutPage",
+              "qualifier": null
+            },
+            "isProvider": false
+          },
+          "singleton": false,
+          "asynchronous": false,
+          "dependencies": []
+        }
+      }
+    ]
+  }
+}
